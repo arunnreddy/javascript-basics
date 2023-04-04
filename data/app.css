@@ -1,0 +1,18 @@
+.hai{
+    background-color: aqua;
+   padding:100spx;
+    width:200px;
+    height:200px;
+    border:12px solid grey;
+    margin:auto;
+    margin-top:200px
+}
+.hello{
+    background-color:green;
+   margin:auto;
+   margin-top:50px;
+   border:12px solid grey;
+    width:100px;
+    height:100px
+
+}
